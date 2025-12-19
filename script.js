@@ -1,4 +1,4 @@
-const apiKey = 'API_KEY';
+const apiKey = CONFIG.API_KEY;
 const inputCity = document.querySelector('#inputCity');
 const btnSubmit = document.querySelector('#btnSubmit');
 const container = document.querySelector('#resultCard');
